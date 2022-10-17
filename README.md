@@ -2,8 +2,8 @@
 
 
 # Authors
-Owora Enock
-Daniel Daniel
+Owora John Enock
+Mwiine Daniel
 
 
 # 0 - Write a function that produces output according to a format.
