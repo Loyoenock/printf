@@ -1,7 +1,7 @@
 # 0x11. C - printf - Project task
 
 
-# Authors
+## **Author**
 1. Owora John Enock
 2. Mwiine Daniel
 
