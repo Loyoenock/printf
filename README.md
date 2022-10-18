@@ -1,11 +1,6 @@
 # 0x11. C - printf - Project task
 
 
-## **Author**
-1. Owora John Enock
-2. Mwiine Daniel
-
-
 # 0 - Write a function that produces output according to a format.
 	- Prototype: int _printf(const char *format, ...);
 	- Returns: the number of characters printed (excluding the null byte used to end output to strings)
@@ -28,3 +23,7 @@
 	- You don’t have to handle field width
 	- You don’t have to handle precision
 	- You don’t have to handle the length modifiers
+
+## **Author**
+Owora John Enock
+Mwiine Daniel
